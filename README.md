@@ -1,5 +1,7 @@
 # docchat
 
+[![tests](https://github.com/namand6/docchat/actions/workflows/tests.yml/badge.svg)](https://github.com/namand6/docchat/actions/workflows/tests.yml)
+
 Chat with a PDF and get answers that cite the page they came from, or an honest "I couldn't find
 that" when the document doesn't say. Built to be measured, not eyeballed: it ships with an eval
 harness that scores retrieval and answers, including whether it hallucinates on unanswerable questions.
